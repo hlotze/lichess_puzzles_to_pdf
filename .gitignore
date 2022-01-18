@@ -8,3 +8,6 @@ Theme_Table_index.html
 Theme_Table_index.pdf
 my_secrets.py
 generate_puzzle_overview.py
+my_pip_env-py37
+my_conda_env-37
+my_snippet.ipynb
