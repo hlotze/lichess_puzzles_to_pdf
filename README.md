@@ -37,7 +37,7 @@ After some googling I found the [lichess puzzle database](https://database.liche
 - [ ] \(evtl. for another project) similar script(s) for PGN[^2] files or a script that takes the FEN[^3] plus the PGN[^2] of a match generating such a booklet[^1].
 
 ## Contact
-In case you like to give me a note, send me a mail to `hlotze@yahoo.com`
+[@hlotze](https://github.com/hlotze)
 
 [^1]: [booklet](https://helpx.adobe.com/acrobat/kb/print-booklets-acrobat-reader.html) - one A4 sheet folded takes four pages
 [^2]: PGN - see [Wikipedia Portable Game Notation](https://en.wikipedia.org/wiki/Portable_Game_Notation)
